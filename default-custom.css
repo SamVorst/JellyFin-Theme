@@ -2,6 +2,6 @@
     display: none;
 }
 
-div > div.section1 > div:nth-child(2) > div.sectionTitle.sectionTitleContainer-cards.padded-left > a:after {
-    content: 'Verder kijken >';
+#homeTab > div > div.section1 > div:nth-child(2) > div.sectionTitle.sectionTitleContainer-cards.padded-left {
+    content: 'Verder kijken';
 }
