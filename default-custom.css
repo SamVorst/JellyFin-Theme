@@ -1,4 +1,3 @@
 .cardContent {
-    width: 100px !important;
-    height: 150px !important;
+    border-radius: 50% !important;
 }
