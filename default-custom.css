@@ -2,6 +2,6 @@
     display: none;
 }
 
-div.section1 > .sectionTitle {
-    content: "Verder kijken >";
+div > div.section1 > div:nth-child(2) > div.sectionTitle.sectionTitleContainer-cards.padded-left > a:after {
+    content: 'Verder kijken >';
 }
