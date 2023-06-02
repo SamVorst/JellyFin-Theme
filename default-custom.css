@@ -2,6 +2,6 @@
     display: none;
 }
 
-.section1 .sectionTitle .sectionTitle-cards .padded-left {
+div.section1 > .sectionTitle {
     content: "Verder kijken >";
 }
