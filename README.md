@@ -1,1 +1,1 @@
-# JellyFin-Theme
+Adguard Filter list
