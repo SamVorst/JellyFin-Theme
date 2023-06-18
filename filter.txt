@@ -1,2 +1,5 @@
 || advice-ads.s3.amazonaws.com^
-
+|| afs.googlesyndication.com^
+|| advertising-api-eu.amazon.com^
+|| analytics.google.com^
+|| click.googleanalytics.com^
